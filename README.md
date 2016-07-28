@@ -11,5 +11,5 @@ composer require rocketfirm/yii2-migration-generator
 
 Add following line of code to your ```main-local.php``` config file
 ```
-$config['modules']['gii']['generators'][sanzhikee-gii-migration] = 'rocketfirm\generator\migration\Generator';
+$config['modules']['gii']['generators']['sanzhikee-gii-migration'] = 'rocketfirm\generator\migration\Generator';
 ```
