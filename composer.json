@@ -1,0 +1,21 @@
+{
+    "name": "rocketfirm/yii2-migration-generator",
+    "description": "Generates yii2 migrations from database",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sanzhikee",
+            "email": "sanzhar.sarsenbi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "rocketfirm\\generator\\migration": "",
+        }
+    }
+}

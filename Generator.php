@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\components\crud\migration;
+namespace rocketfirm\generator\migration;
 
 use Yii;
 use yii\db\Connection;
